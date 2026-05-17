@@ -1,0 +1,20 @@
+{
+  "name": "CRISIS",
+  "short_name": "CRISIS",
+  "start_url": "/crisisapk/",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#6c63ff",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/6c63ff/ffffff?text=C",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/6c63ff/ffffff?text=C",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
